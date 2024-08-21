@@ -27,7 +27,8 @@ $(document).ready(function () {
 //             document.title = "Come Back To Portfolio";
 //             $("#favicon").attr("href", "/assets/images/favhand.png");
 //         }
-//     });
+//     }); Scroll to top function
+
 
 
 // fetch projects start
