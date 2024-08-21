@@ -20,7 +20,7 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Projects | Portfolio MANSOOR aHMED KHAN AFRIDI";
+            document.title = "Projects | Portfolio Mansoor";
             $("#favicon").attr("href", "/assets/images/favicon.png");
         }
         else {
